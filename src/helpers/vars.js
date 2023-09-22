@@ -1,0 +1,1 @@
+export const serverPath = 'https://gifted-accurate-mole.glitch.me/'
